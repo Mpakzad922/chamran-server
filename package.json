@@ -1,6 +1,6 @@
 {
   "name": "chamran-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chamran School Backend Server",
   "main": "index.js",
   "scripts": {
@@ -13,4 +13,5 @@
   "engines": {
     "node": ">=16.0.0"
   }
+
 }
